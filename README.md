@@ -4,7 +4,7 @@ Ce projet consiste en un site web interactif développé avec Streamlit, une pla
 
 ## Description
 
-L'application développée dans ce projet vise à fournir une interface conviviale pour l'exploration, la visualisation et le classement des données. Elle permet aux utilisateurs, par binôme, d'analyser les données afin de classer les candidats pour divers départements académiques, y compris le département informatique.
+L'application développée dans ce projet vise à fournir une interface conviviale pour l'exploration, la visualisation et le classement des données. Elle permet aux utilisateurs d'analyser les données afin de classer automatiquement les données.
 
 ## Fonctionnalités
 
@@ -26,9 +26,9 @@ L'application développée dans ce projet vise à fournir une interface convivia
 
 - **Python :** Langage de programmation principal pour le développement.
 
-- **Pandas, Matplotlib, Seaborn :** Bibliothèques de data science utilisées pour l'analyse et la visualisation des données.
+- **Pandas, Matplotlib, Seaborn, Scikit Learn :** Bibliothèques de data science utilisées pour l'analyse et la visualisation des données.
 
-- **Firebase :** Utilisé pour le stockage sécurisé des données et l'interaction avec la base de données.
+- **LLM Mistral :** Modèle de langage utilisé pour le chatbot intégré dans l'application.
 
 ## Comment Exécuter Localement
 
