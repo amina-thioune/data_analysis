@@ -35,7 +35,7 @@ L'application développée dans ce projet vise à fournir une interface convivia
 1. Clonez ce dépôt sur votre machine locale.
    
    ```bash
-   git clone https://github.com/votre_utilisateur/sae.git
+   git clone https://github.com/amina-thioune/sae.git
    ```
    
 2. Installez les dépendances nécessaires.
