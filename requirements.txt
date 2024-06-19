@@ -1,0 +1,10 @@
+streamlit
+pandas
+seaborn
+matplotlib
+scikit-learn
+pickle5
+deep-translator
+langchain-community
+langchain-core
+prince
