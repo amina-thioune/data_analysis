@@ -15,7 +15,7 @@ from deep_translator import (GoogleTranslator,
                              single_detection,
                              batch_detection)
 
-HUGGINGFACEHUB_API_TOKEN = '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'
+HUGGINGFACEHUB_API_TOKEN = # remplacer avec un token de Hugging Face
 import os
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
 
