@@ -1,4 +1,4 @@
-# Projet de Site Web avec Streamlit
+# Analyse de Données
 
 Ce projet consiste en un site web interactif développé avec Streamlit, une plateforme open-source permettant de créer facilement des applications web pour le traitement et l'analyse de données.
 
@@ -35,7 +35,7 @@ L'application développée dans ce projet vise à fournir une interface convivia
 1. Clonez ce dépôt sur votre machine locale.
    
    ```bash
-   git clone https://github.com/amina-thioune/sae_developpement_application.git
+   git clone https://github.com/amina-thioune/data_analysis.git
    ```
    
 2. Installez les dépendances nécessaires.
